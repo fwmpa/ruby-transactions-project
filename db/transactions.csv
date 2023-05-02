@@ -1,0 +1,7 @@
+account_name,amount,description
+SafeAccount,1000,Saldo inicial
+SafeAccount,-100,Debito 1
+SafeAccount,-100,Debito 2
+SafeAccount,-100,Debito 3
+SafeAccount,1000,Saldo inicial
+SafeAccount,1000,Proventos
